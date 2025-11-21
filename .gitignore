@@ -1,0 +1,6 @@
+# Ignore everything
+/*
+
+# But NOT this folder
+!/.gitignore
+!/sia-app/
