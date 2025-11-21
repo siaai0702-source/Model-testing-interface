@@ -4,3 +4,9 @@
 # But NOT this folder
 !/.gitignore
 !/sia-app/
+
+# Ignore model weights
+model_dir/
+sdxl_model/
+*.safetensors
+*.bin
